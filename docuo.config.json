@@ -3,7 +3,7 @@
   "favicon": "https://media-resource.spreading.io/docuo/workspace70/d284f10b05741bcd0143ae2b48f01fbb/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "Kronos",
+      "title": "KronosAPI",
       "logo": "https://media-resource.spreading.io/docuo/workspace70/d284f10b05741bcd0143ae2b48f01fbb/logo.png",
       "items": [
         {
